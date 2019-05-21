@@ -9,8 +9,8 @@
   export default {
     data(){
       return {
-        msg: "Welcome to Your Vue.js App",
-        desc: "Lets try ! Owesome functions here !"
+        msg: "Sentry Meets to Your Vue.js App",
+        desc: "Sentry を利用して、ブラウザ上でのエラーの発生をトレースすることができる。"
       }
     }
   }

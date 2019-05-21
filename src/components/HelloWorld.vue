@@ -45,6 +45,10 @@ export default {
 h3 {
   margin: 40px 0 0;
 }
+p{
+  margin: auto;
+  width: 450px;
+}
 ul {
   list-style-type: none;
   padding: 0;

@@ -9,8 +9,8 @@
   export default {
     data(){
       return {
-        msg: "Welcome to Your Vue.js App",
-        desc: "Lets try ! Owesome functions here !"
+        msg: "Add Error Handler to Your Vue.js App",
+        desc: "フロントアプリケーションにエラーハンドリングを導入するだけで、エラーが起こっていることをユーザに通知できる。"
       }
     }
   }
