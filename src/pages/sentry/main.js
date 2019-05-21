@@ -6,6 +6,7 @@ import * as Integrations from '@sentry/integrations';
 
 Sentry.init({
   dsn: 'https://fd252f64eebb49a7905de99355e27e38@sentry.io/1464704',
+  environment: process.env.NODE_ENV || "development",
   integrations: [
     new Integrations.Vue({
       Vue,
